@@ -3,7 +3,8 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0;
-    background-color: #f0f0f0;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,253,78,1) 100%);
 }
 
 .quiz-container-wrapper {
@@ -18,7 +19,8 @@ body {
     border-radius: 10px;
     width: 50vh;
     padding: 20px;
-    background-color: #fff;
+    background: rgb(193,239,240);
+    background: radial-gradient(circle, rgba(193,239,240,1) 0%, rgba(148,187,233,1) 100%);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     margin-bottom: 20px;
 }
