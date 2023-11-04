@@ -38,12 +38,16 @@ label {
     margin-bottom: 10px;
 }
 
-.correct {
-    border: 2px solid #00ff00;
+.correct-question {
+    border: 2px solid #08F530;
 }
 
-.incorrect {
+.incorrect-question {
     border: 2px solid #ff0000;
+}
+
+#correct-answer {
+    color: #08F530;
 }
 
 #submit-button {
